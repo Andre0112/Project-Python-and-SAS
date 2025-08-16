@@ -1,1 +1,1 @@
-# Python-i-SAS-
+# I developed a project for managing a library using Python and SAS, where I explored various functions and operators for data manipulation and automation of processes such as inventory management, searching, and sales analysis.
